@@ -14,24 +14,32 @@
     background-color: brown;
     color: antiquewhite;
 }
-.name{
 
-}
 
 .NATAYLA{
     color: purple
 
 }
+.NATAYLA:hover{
+    text-shadow: 0.3em 0.3em 0.8em yellow;
+    border: 0.25em solid purple;
+}
 .LOMOV{
     color:salmon
 
 }
-
+.LOMOV:hover{
+    text-shadow: 0.3em 0.3em 0.8em greenyellow;
+    border: 0.25em solid orange;
+}
 .CHUBUKOV{
     color:green
 
 }
-
+.CHUBUKOV:hover{
+    text-shadow: 0.3em 0.3em 0.8em red;
+    border: 0.25em solid yellow;
+}
 .table{
     border: 0.5em solid black;
     color: darkolivegreen;
