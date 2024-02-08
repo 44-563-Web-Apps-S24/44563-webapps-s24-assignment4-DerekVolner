@@ -1,0 +1,33 @@
+.speech{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: medium;
+    color: black;
+}
+
+.direction{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 3em;
+    color: black;
+    background-color: blanchedalmond;
+}
+.direction:hover {
+    background-color: brown;
+    color: antiquewhite;
+}
+.name{
+
+}
+
+.NATAYLA{
+    color:aqua
+
+}
+.LOMOV{
+    color:salmon
+
+}
+
+.CHUBUKOV{
+    color:green
+
+}
