@@ -31,3 +31,18 @@
     color:green
 
 }
+
+.table{
+    border: 0.5em solid black;
+    color: darkolivegreen;
+    text-align: middle;
+    padding: 0.25em 0.25em 0.25em 0.25em;
+    margin:  0.25em 0.25em 0.25em 0.25em;
+}
+.table tr:nth-child(even){
+    background-color: aquamarine;
+}
+.table tr:nth-child(odd){
+    background-color: lightcoral;
+
+}
